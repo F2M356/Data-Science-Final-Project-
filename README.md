@@ -16,4 +16,4 @@ The dataset is a combination of the temperature and rainfall data, aligned by da
 5. Temporal Coverage: Earliest Date: 1901 and Latest Date: 2023
 
 
-
+To run the code upload file data.csv into google drive and use google colab.
